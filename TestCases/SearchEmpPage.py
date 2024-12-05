@@ -51,5 +51,8 @@ class Test_004_searchEmp:
             time.sleep(6)
 
 
+# pytest -v -s --html=./Reports/SearchEmp.html TestCases/SearchEmp.py
+
+
 
 
