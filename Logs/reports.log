@@ -1,5 +1,31 @@
-03-Dec-24 01:15:37 PM - INFO - ***********Test005_deleteEmp started*************
-03-Dec-24 01:15:40 PM - INFO - ***********Logging IN*************
-03-Dec-24 01:15:41 PM - INFO - ***********Login success*************
-03-Dec-24 01:15:44 PM - INFO - ***********Entering Emp-name*************
-03-Dec-24 01:15:56 PM - INFO - *********Screenshot taken***************
+07-Dec-24 10:37:18 AM - INFO - ***********Test004_searchEmp started*************
+07-Dec-24 10:37:21 AM - INFO - ***********Logging IN*************
+07-Dec-24 10:37:23 AM - INFO - ***********Login success*************
+07-Dec-24 10:37:25 AM - INFO - ***********Entering Emp-name*************
+07-Dec-24 10:37:28 AM - INFO - *************Name matched**********
+07-Dec-24 10:37:28 AM - INFO - *********Screenshot taken***************
+07-Dec-24 10:37:28 AM - INFO - *********SearchEmp completed***************
+07-Dec-24 10:37:38 AM - INFO - ***********Test005_deleteEmp started*************
+07-Dec-24 10:37:40 AM - INFO - ***********Logging IN*************
+07-Dec-24 10:37:41 AM - INFO - ***********Login success*************
+07-Dec-24 10:37:44 AM - INFO - ***********Entering Emp-name*************
+07-Dec-24 10:37:45 AM - INFO - *************Name matched**********
+07-Dec-24 10:37:45 AM - INFO - ***********Employee selected**************
+07-Dec-24 10:37:46 AM - INFO - ************Employee Deleted***************
+07-Dec-24 10:37:46 AM - INFO - **********Toaster message presented*********
+07-Dec-24 10:37:57 AM - INFO - *********Screenshot taken***************
+07-Dec-24 10:38:02 AM - INFO - *******Test002_loginDDT***********
+07-Dec-24 10:38:02 AM - INFO - *******Data Driven started**********
+07-Dec-24 10:38:08 AM - INFO - *********Trying to login*************
+07-Dec-24 10:38:08 AM - INFO - ********Passed**********
+07-Dec-24 10:38:10 AM - INFO - *********Trying to login*************
+07-Dec-24 10:38:10 AM - INFO - ********Passed**********
+07-Dec-24 10:38:14 AM - INFO - *********Trying to login*************
+07-Dec-24 10:38:14 AM - INFO - ********Passed**********
+07-Dec-24 10:38:17 AM - INFO - *********Trying to login*************
+07-Dec-24 10:38:17 AM - INFO - ********Passed**********
+07-Dec-24 10:38:19 AM - INFO - *********Trying to login*************
+07-Dec-24 10:38:19 AM - INFO - ********Passed**********
+07-Dec-24 10:38:23 AM - INFO - *********Trying to login*************
+07-Dec-24 10:38:23 AM - INFO - ********Passed**********
+07-Dec-24 10:38:23 AM - INFO - *******Data Driven completed*********

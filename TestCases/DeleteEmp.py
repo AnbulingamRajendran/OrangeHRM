@@ -17,7 +17,8 @@ class Test_005_deleteEmp:
 
     @pytest.mark.regression
     def test_deleteEmp(self, setup):
-        self.emp_name = input("enter the employee name for delete: ")
+        # self.emp_name = input("enter the employee name for delete: ")
+        self.emp_name = "jon"
         try:
             self.logger.info("***********Test005_deleteEmp started*************")
             self.driver = setup

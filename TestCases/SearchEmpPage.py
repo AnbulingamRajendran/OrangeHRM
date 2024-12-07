@@ -16,9 +16,10 @@ class Test_004_searchEmp:
     logger = logGenerator.logGen()
 
     @pytest.mark.regression
-    @pytest.mark.sanity
+    #   @pytest.mark.sanity
     def test_SearchEmp(self, setup):
-        self.emp_name = input("Enter the employee name: ")
+        # self.emp_name = input("Enter the employee name: ")
+        self.emp_name = "jon"
         try:
             self.logger.info("***********Test004_searchEmp started*************")
             self.driver = setup
@@ -50,9 +51,4 @@ class Test_004_searchEmp:
             self.logger.info("*********SearchEmp completed***************")
             time.sleep(6)
 
-
 # pytest -v -s --html=./Reports/SearchEmp.html TestCases/SearchEmp.py
-
-
-
-
