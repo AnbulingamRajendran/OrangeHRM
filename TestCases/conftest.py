@@ -38,7 +38,7 @@ def pytest_configure(config):
 
 
 def pytest_collection_modifyitems(items):
-    order = ['test_login_check', 'test_addEmp', 'test_SearchEmp']
+    order = ['test_title_check', 'test_login_check', 'test_addEmp', 'test_SearchEmp', 'test_deleteEmp', 'test_login_DDT']
     items.sort(key=lambda item: order.index(item.name) if item.name in order else len(order))
 
 

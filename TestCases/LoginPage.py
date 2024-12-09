@@ -13,6 +13,7 @@ class Test_001_login:
     password = readConfig.getPassword()
     logger = logGenerator.logGen()
 
+    @pytest.mark.sanity
     def test_title_check(self, setup):
         self.logger.info("**********Test001_login**********")
         self.logger.info("***********Setting up the driver*********")

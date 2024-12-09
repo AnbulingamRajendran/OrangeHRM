@@ -1,31 +1,17 @@
-07-Dec-24 10:37:18 AM - INFO - ***********Test004_searchEmp started*************
-07-Dec-24 10:37:21 AM - INFO - ***********Logging IN*************
-07-Dec-24 10:37:23 AM - INFO - ***********Login success*************
-07-Dec-24 10:37:25 AM - INFO - ***********Entering Emp-name*************
-07-Dec-24 10:37:28 AM - INFO - *************Name matched**********
-07-Dec-24 10:37:28 AM - INFO - *********Screenshot taken***************
-07-Dec-24 10:37:28 AM - INFO - *********SearchEmp completed***************
-07-Dec-24 10:37:38 AM - INFO - ***********Test005_deleteEmp started*************
-07-Dec-24 10:37:40 AM - INFO - ***********Logging IN*************
-07-Dec-24 10:37:41 AM - INFO - ***********Login success*************
-07-Dec-24 10:37:44 AM - INFO - ***********Entering Emp-name*************
-07-Dec-24 10:37:45 AM - INFO - *************Name matched**********
-07-Dec-24 10:37:45 AM - INFO - ***********Employee selected**************
-07-Dec-24 10:37:46 AM - INFO - ************Employee Deleted***************
-07-Dec-24 10:37:46 AM - INFO - **********Toaster message presented*********
-07-Dec-24 10:37:57 AM - INFO - *********Screenshot taken***************
-07-Dec-24 10:38:02 AM - INFO - *******Test002_loginDDT***********
-07-Dec-24 10:38:02 AM - INFO - *******Data Driven started**********
-07-Dec-24 10:38:08 AM - INFO - *********Trying to login*************
-07-Dec-24 10:38:08 AM - INFO - ********Passed**********
-07-Dec-24 10:38:10 AM - INFO - *********Trying to login*************
-07-Dec-24 10:38:10 AM - INFO - ********Passed**********
-07-Dec-24 10:38:14 AM - INFO - *********Trying to login*************
-07-Dec-24 10:38:14 AM - INFO - ********Passed**********
-07-Dec-24 10:38:17 AM - INFO - *********Trying to login*************
-07-Dec-24 10:38:17 AM - INFO - ********Passed**********
-07-Dec-24 10:38:19 AM - INFO - *********Trying to login*************
-07-Dec-24 10:38:19 AM - INFO - ********Passed**********
-07-Dec-24 10:38:23 AM - INFO - *********Trying to login*************
-07-Dec-24 10:38:23 AM - INFO - ********Passed**********
-07-Dec-24 10:38:23 AM - INFO - *******Data Driven completed*********
+09-Dec-24 10:50:00 AM - INFO - **********Test001_login**********
+09-Dec-24 10:50:00 AM - INFO - ***********Setting up the driver*********
+09-Dec-24 10:50:05 AM - INFO - *********Checking the Title**********
+09-Dec-24 10:50:05 AM - INFO - *********Title Matched**********
+09-Dec-24 10:50:10 AM - INFO - ***********Setting up the driver*********
+09-Dec-24 10:50:13 AM - INFO - *********Trying to Login*********
+09-Dec-24 10:50:15 AM - INFO - **********Login Passed************
+09-Dec-24 10:50:17 AM - INFO - *******Logged out***********
+09-Dec-24 10:50:25 AM - INFO - *********Test003_addemp  started***********
+09-Dec-24 10:50:25 AM - INFO - **********Logging in***************
+09-Dec-24 10:50:30 AM - INFO - *******Logged in*************
+09-Dec-24 10:50:34 AM - INFO - **********Employee name added*************
+09-Dec-24 10:50:35 AM - INFO - **********Credits added*************
+09-Dec-24 10:50:38 AM - INFO - ********Profile pic added*********
+09-Dec-24 10:50:38 AM - INFO - **********USER ADDED Successfully****************
+09-Dec-24 10:50:41 AM - INFO - **********Toaster message presented*********
+09-Dec-24 10:50:52 AM - INFO - *********SCREENSHOT TAKEN*************
