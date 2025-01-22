@@ -55,13 +55,15 @@ class Test_002_loginDDT:
                         XLutils.write_data(self.path, 'credentials', r, 4, 'Fail')
                         XLutils.fill_green(self.path, 'credentials', r, 4)
                     elif self.exp == "Fail":
-                        self.logger.info("********Passed**********")
-                        self.actual_list.append("Pass")
-                        XLutils.write_data(self.path, 'credentials', r, 4, 'Pass')
+                        self.logger.info("********Failed**********")
+                        self.actual_list.append("Fail")
+                        XLutils.write_data(self.path, 'credentials', r, 4, 'Fail')
                         XLutils.fill_red(self.path, 'credentials', r, 4)
+                    msg = self.lp.get_error_msg()
+                    XLutils.write_data(self.path, 'credentials', r, 5, msg)
             if "Fail" not in self.actual_list:
-                self.logger.info("*******Data Driven completed*********")
+                self.logger.info("*******Data Driven completed - All Pass*********")
             else:
-                self.logger.error("*********Data Driven Failed********")
+                self.logger.error("*********Data Driven completed - Some credentials failed********")
         except (TimeoutException, Exception) as e:
             print("Error message", e)

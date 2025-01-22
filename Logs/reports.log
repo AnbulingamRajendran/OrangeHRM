@@ -1,17 +1,16 @@
-09-Dec-24 10:50:00 AM - INFO - **********Test001_login**********
-09-Dec-24 10:50:00 AM - INFO - ***********Setting up the driver*********
-09-Dec-24 10:50:05 AM - INFO - *********Checking the Title**********
-09-Dec-24 10:50:05 AM - INFO - *********Title Matched**********
-09-Dec-24 10:50:10 AM - INFO - ***********Setting up the driver*********
-09-Dec-24 10:50:13 AM - INFO - *********Trying to Login*********
-09-Dec-24 10:50:15 AM - INFO - **********Login Passed************
-09-Dec-24 10:50:17 AM - INFO - *******Logged out***********
-09-Dec-24 10:50:25 AM - INFO - *********Test003_addemp  started***********
-09-Dec-24 10:50:25 AM - INFO - **********Logging in***************
-09-Dec-24 10:50:30 AM - INFO - *******Logged in*************
-09-Dec-24 10:50:34 AM - INFO - **********Employee name added*************
-09-Dec-24 10:50:35 AM - INFO - **********Credits added*************
-09-Dec-24 10:50:38 AM - INFO - ********Profile pic added*********
-09-Dec-24 10:50:38 AM - INFO - **********USER ADDED Successfully****************
-09-Dec-24 10:50:41 AM - INFO - **********Toaster message presented*********
-09-Dec-24 10:50:52 AM - INFO - *********SCREENSHOT TAKEN*************
+10-Jan-25 10:23:32 AM - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+10-Jan-25 10:23:34 AM - INFO - *******Test002_loginDDT***********
+10-Jan-25 10:23:34 AM - INFO - *******Data Driven started**********
+10-Jan-25 10:23:40 AM - INFO - *********Trying to login*************
+10-Jan-25 10:23:40 AM - INFO - ********Failed**********
+10-Jan-25 10:23:43 AM - INFO - *********Trying to login*************
+10-Jan-25 10:23:43 AM - INFO - ********Passed**********
+10-Jan-25 10:23:47 AM - INFO - *********Trying to login*************
+10-Jan-25 10:23:47 AM - INFO - ********Failed**********
+10-Jan-25 10:23:49 AM - INFO - *********Trying to login*************
+10-Jan-25 10:23:49 AM - INFO - ********Failed**********
+10-Jan-25 10:23:53 AM - INFO - *********Trying to login*************
+10-Jan-25 10:23:53 AM - INFO - ********Passed**********
+10-Jan-25 10:23:58 AM - INFO - *********Trying to login*************
+10-Jan-25 10:23:58 AM - INFO - ********Failed**********
+10-Jan-25 10:23:58 AM - ERROR - *********Data Driven completed - Some credentials failed********

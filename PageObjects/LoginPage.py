@@ -10,6 +10,7 @@ class Login:
     dashboard_xpath = "//h6[normalize-space()='Dashboard']"
     profile_xpath = "//p[@class='oxd-userdropdown-name']"
     logoutButton_xpath = "//ul[@class='oxd-dropdown-menu']//li[4]"
+    error_msg = "//p[@class='oxd-text oxd-text--p oxd-alert-content-text']"
 
     def __init__(self, driver):
         self.driver = driver
@@ -34,3 +35,9 @@ class Login:
     def click_logout(self):
         self.wait.until(EC.element_to_be_clickable((By.XPATH, self.profile_xpath))).click()
         self.wait.until(EC.element_to_be_clickable((By.XPATH, self.logoutButton_xpath))).click()
+
+    def get_error_msg(self):
+        msg = self.wait.until(EC.visibility_of_element_located((By.XPATH, self.error_msg))).text
+        return msg
+
+

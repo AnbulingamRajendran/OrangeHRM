@@ -1,0 +1,4 @@
+[32mINFO    [0m root:LoginPage.py:18 **********Test001_login**********
+[32mINFO    [0m root:LoginPage.py:19 ***********Setting up the driver*********
+[32mINFO    [0m root:LoginPage.py:23 *********Checking the Title**********
+[32mINFO    [0m root:LoginPage.py:27 *********Title Matched**********

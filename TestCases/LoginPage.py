@@ -1,5 +1,6 @@
 import time
 
+import allure
 import pytest
 from selenium.common import TimeoutException
 from Utilities.readProperties import readConfig
