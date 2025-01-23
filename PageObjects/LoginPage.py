@@ -2,7 +2,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 
-
 class Login:
     user_name_xpath = "//input[@name='username']"
     password_xpath = "//input[@placeholder='Password']"
