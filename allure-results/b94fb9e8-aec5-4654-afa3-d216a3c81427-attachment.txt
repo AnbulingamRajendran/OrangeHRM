@@ -1,0 +1,7 @@
+[32mINFO    [0m root:SearchEmpPage.py:24 ***********Test004_searchEmp started*************
+[32mINFO    [0m root:SearchEmpPage.py:29 ***********Logging IN*************
+[32mINFO    [0m root:SearchEmpPage.py:33 ***********Login success*************
+[32mINFO    [0m root:SearchEmpPage.py:37 ***********Entering Emp-name*************
+[32mINFO    [0m root:SearchEmpPage.py:66 *************Name matched**********
+[32mINFO    [0m root:SearchEmpPage.py:50 *********Screenshot taken***************
+[32mINFO    [0m root:SearchEmpPage.py:51 *********SearchEmp completed***************

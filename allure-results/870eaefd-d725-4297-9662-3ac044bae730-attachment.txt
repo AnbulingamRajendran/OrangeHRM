@@ -1,0 +1,15 @@
+[32mINFO    [0m root:Login_DDT.py:20 *******Test002_loginDDT***********
+[32mINFO    [0m root:Login_DDT.py:21 *******Data Driven started**********
+[32mINFO    [0m root:Login_DDT.py:36 *********Trying to login*************
+[32mINFO    [0m root:Login_DDT.py:58 ********Failed**********
+[32mINFO    [0m root:Login_DDT.py:36 *********Trying to login*************
+[32mINFO    [0m root:Login_DDT.py:40 ********Passed**********
+[32mINFO    [0m root:Login_DDT.py:36 *********Trying to login*************
+[32mINFO    [0m root:Login_DDT.py:58 ********Failed**********
+[32mINFO    [0m root:Login_DDT.py:36 *********Trying to login*************
+[32mINFO    [0m root:Login_DDT.py:58 ********Failed**********
+[32mINFO    [0m root:Login_DDT.py:36 *********Trying to login*************
+[32mINFO    [0m root:Login_DDT.py:40 ********Passed**********
+[32mINFO    [0m root:Login_DDT.py:36 *********Trying to login*************
+[32mINFO    [0m root:Login_DDT.py:58 ********Failed**********
+[1m[31mERROR   [0m root:Login_DDT.py:67 *********Data Driven completed - Some credentials failed********

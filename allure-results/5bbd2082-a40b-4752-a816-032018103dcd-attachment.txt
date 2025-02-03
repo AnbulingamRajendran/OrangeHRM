@@ -1,0 +1,13 @@
+[32mINFO    [0m root:DeleteEmp.py:23 ***********Test005_deleteEmp started*************
+[32mINFO    [0m root:DeleteEmp.py:28 ***********Logging IN*************
+[32mINFO    [0m root:DeleteEmp.py:32 ***********Login success*************
+[32mINFO    [0m root:DeleteEmp.py:36 ***********Entering Emp-name*************
+[32mINFO    [0m root:SearchEmpPage.py:103 *************Name matched**********
+[32mINFO    [0m root:SearchEmpPage.py:107 ***********Employee selected**************
+[32mINFO    [0m root:SearchEmpPage.py:110 ************Employee Deleted***************
+[32mINFO    [0m root:AddEmpPage.py:72 **********Toaster message presented*********
+[32mINFO    [0m root:SearchEmpPage.py:103 *************Name matched**********
+[32mINFO    [0m root:SearchEmpPage.py:107 ***********Employee selected**************
+[32mINFO    [0m root:SearchEmpPage.py:110 ************Employee Deleted***************
+[32mINFO    [0m root:AddEmpPage.py:72 **********Toaster message presented*********
+[32mINFO    [0m root:DeleteEmp.py:47 *********Screenshot taken***************

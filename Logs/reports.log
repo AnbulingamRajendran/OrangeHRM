@@ -1,16 +1,35 @@
-10-Jan-25 10:23:32 AM - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
-10-Jan-25 10:23:34 AM - INFO - *******Test002_loginDDT***********
-10-Jan-25 10:23:34 AM - INFO - *******Data Driven started**********
-10-Jan-25 10:23:40 AM - INFO - *********Trying to login*************
-10-Jan-25 10:23:40 AM - INFO - ********Failed**********
-10-Jan-25 10:23:43 AM - INFO - *********Trying to login*************
-10-Jan-25 10:23:43 AM - INFO - ********Passed**********
-10-Jan-25 10:23:47 AM - INFO - *********Trying to login*************
-10-Jan-25 10:23:47 AM - INFO - ********Failed**********
-10-Jan-25 10:23:49 AM - INFO - *********Trying to login*************
-10-Jan-25 10:23:49 AM - INFO - ********Failed**********
-10-Jan-25 10:23:53 AM - INFO - *********Trying to login*************
-10-Jan-25 10:23:53 AM - INFO - ********Passed**********
-10-Jan-25 10:23:58 AM - INFO - *********Trying to login*************
-10-Jan-25 10:23:58 AM - INFO - ********Failed**********
-10-Jan-25 10:23:58 AM - ERROR - *********Data Driven completed - Some credentials failed********
+03-Feb-25 02:53:05 PM - INFO - ***********Test004_searchEmp started*************
+03-Feb-25 02:53:08 PM - INFO - ***********Logging IN*************
+03-Feb-25 02:53:08 PM - INFO - ***********Login success*************
+03-Feb-25 02:53:11 PM - INFO - ***********Entering Emp-name*************
+03-Feb-25 02:53:14 PM - INFO - *************Name matched**********
+03-Feb-25 02:53:14 PM - INFO - *********Screenshot taken***************
+03-Feb-25 02:53:14 PM - INFO - *********SearchEmp completed***************
+03-Feb-25 02:53:25 PM - INFO - ***********Test005_deleteEmp started*************
+03-Feb-25 02:53:28 PM - INFO - ***********Logging IN*************
+03-Feb-25 02:53:28 PM - INFO - ***********Login success*************
+03-Feb-25 02:53:31 PM - INFO - ***********Entering Emp-name*************
+03-Feb-25 02:53:33 PM - INFO - *************Name matched**********
+03-Feb-25 02:53:33 PM - INFO - ***********Employee selected**************
+03-Feb-25 02:53:33 PM - INFO - ************Employee Deleted***************
+03-Feb-25 02:53:34 PM - INFO - **********Toaster message presented*********
+03-Feb-25 02:53:37 PM - INFO - *************Name matched**********
+03-Feb-25 02:53:37 PM - INFO - ***********Employee selected**************
+03-Feb-25 02:53:37 PM - INFO - ************Employee Deleted***************
+03-Feb-25 02:53:37 PM - INFO - **********Toaster message presented*********
+03-Feb-25 02:53:48 PM - INFO - *********Screenshot taken***************
+03-Feb-25 02:53:54 PM - INFO - *******Test002_loginDDT***********
+03-Feb-25 02:53:54 PM - INFO - *******Data Driven started**********
+03-Feb-25 02:54:00 PM - INFO - *********Trying to login*************
+03-Feb-25 02:54:00 PM - INFO - ********Failed**********
+03-Feb-25 02:54:02 PM - INFO - *********Trying to login*************
+03-Feb-25 02:54:02 PM - INFO - ********Passed**********
+03-Feb-25 02:54:07 PM - INFO - *********Trying to login*************
+03-Feb-25 02:54:07 PM - INFO - ********Failed**********
+03-Feb-25 02:54:09 PM - INFO - *********Trying to login*************
+03-Feb-25 02:54:09 PM - INFO - ********Failed**********
+03-Feb-25 02:54:11 PM - INFO - *********Trying to login*************
+03-Feb-25 02:54:11 PM - INFO - ********Passed**********
+03-Feb-25 02:54:16 PM - INFO - *********Trying to login*************
+03-Feb-25 02:54:16 PM - INFO - ********Failed**********
+03-Feb-25 02:54:16 PM - ERROR - *********Data Driven completed - Some credentials failed********
